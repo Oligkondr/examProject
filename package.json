@@ -5,7 +5,9 @@
   "main": "index.js",
   "type": "module",
   "bin": {
-    "menu-game": "bin/brain-gmes.js"
+    "menu-game": "bin/menu-game.js",
+    "gcd-game": "bin/gcm-game.js",
+    "geomProg-game": "bin/geomProg-game.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

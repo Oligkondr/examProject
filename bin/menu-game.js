@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import { greetings } from '../src/cli.js';
+import menuGreetings from '../src/games/menu-game.js';
 
-greetings();
+menuGreetings();
