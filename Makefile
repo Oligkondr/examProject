@@ -12,3 +12,7 @@ inst eslint:
 	npm install --save-dev eslint
 	npm install --save-dev eslint-config-airbnb-base
 	npm install --save-dev eslint-plugin-import
+asci:
+	asciinema rec demo.cast --overwrite
+load:
+	asciinema upload demo.cast
